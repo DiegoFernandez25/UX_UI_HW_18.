@@ -20,9 +20,10 @@ nav {
 ul {
   width: 50%;
   margin-left: auto;
-  background-color: #373738;
+  background-color:#4174D9;
   padding: 20px;
 }
+
 .logo img {
   width: 150px;
   padding: 25px;
@@ -40,7 +41,7 @@ ul {
 }
 
 footer {
-  background-color: #373738;
+  background-color: #4174D9;
   padding: 20px;
 }
 
@@ -67,6 +68,7 @@ li {
 }
 #myWork-Grid{
   background-color: #4174D9;
+
 }
 
 
